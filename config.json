@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/carrier guidance program",
+        "prod_uri":"mysql://root:@localhost/carrier guidance program",
+        "fb_url":"https://facebook.com/kushalsankhe09/",
+        "tw_url":"https://twitter.com/kushal_sankhe",
+        "gh_url":"https://instagram.com/_.kushal__sankhe._",
+        "blog_name":"Career Guidance Program",
+        "gmail-user":"kushalsankhe08@gmail.com",
+        "gmail-password":"Kushal@8668",
+        "about_text":"Hi my name is kushal and I am currently in second year",
+        "no_of_posts":"5",
+        "login_image":"login.png",
+        "admin_user":"kushalsankhe",
+        "admin_password":"sankhe"
+    }
+
+
+
+
+}
